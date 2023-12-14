@@ -9,21 +9,29 @@
 /* Begin PBXBuildFile section */
 		02DC66882B2B7874001BFF64 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DC66872B2B7874001BFF64 /* AppDelegate.swift */; };
 		02DC668A2B2B7874001BFF64 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DC66892B2B7874001BFF64 /* SceneDelegate.swift */; };
-		02DC668C2B2B7874001BFF64 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DC668B2B2B7874001BFF64 /* ViewController.swift */; };
+		02DC668C2B2B7874001BFF64 /* AnasayfaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DC668B2B2B7874001BFF64 /* AnasayfaViewController.swift */; };
 		02DC668F2B2B7874001BFF64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02DC668D2B2B7874001BFF64 /* Main.storyboard */; };
 		02DC66912B2B7875001BFF64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02DC66902B2B7875001BFF64 /* Assets.xcassets */; };
 		02DC66942B2B7875001BFF64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02DC66922B2B7875001BFF64 /* LaunchScreen.storyboard */; };
+		02DC669C2B2B7DDF001BFF64 /* SayfaA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DC669B2B2B7DDF001BFF64 /* SayfaA.swift */; };
+		02DC669E2B2B7DF6001BFF64 /* SayfaB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DC669D2B2B7DF6001BFF64 /* SayfaB.swift */; };
+		02DC66A02B2B7E02001BFF64 /* SayfaC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DC669F2B2B7E02001BFF64 /* SayfaC.swift */; };
+		02DC66A22B2B7E0E001BFF64 /* SayfaD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DC66A12B2B7E0E001BFF64 /* SayfaD.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		02DC66842B2B7874001BFF64 /* SwiftBootcampOdev3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftBootcampOdev3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02DC66872B2B7874001BFF64 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02DC66892B2B7874001BFF64 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		02DC668B2B2B7874001BFF64 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		02DC668B2B2B7874001BFF64 /* AnasayfaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnasayfaViewController.swift; sourceTree = "<group>"; };
 		02DC668E2B2B7874001BFF64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		02DC66902B2B7875001BFF64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02DC66932B2B7875001BFF64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		02DC66952B2B7875001BFF64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02DC669B2B2B7DDF001BFF64 /* SayfaA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaA.swift; sourceTree = "<group>"; };
+		02DC669D2B2B7DF6001BFF64 /* SayfaB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaB.swift; sourceTree = "<group>"; };
+		02DC669F2B2B7E02001BFF64 /* SayfaC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaC.swift; sourceTree = "<group>"; };
+		02DC66A12B2B7E0E001BFF64 /* SayfaD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaD.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +66,11 @@
 			children = (
 				02DC66872B2B7874001BFF64 /* AppDelegate.swift */,
 				02DC66892B2B7874001BFF64 /* SceneDelegate.swift */,
-				02DC668B2B2B7874001BFF64 /* ViewController.swift */,
+				02DC668B2B2B7874001BFF64 /* AnasayfaViewController.swift */,
+				02DC669B2B2B7DDF001BFF64 /* SayfaA.swift */,
+				02DC669D2B2B7DF6001BFF64 /* SayfaB.swift */,
+				02DC669F2B2B7E02001BFF64 /* SayfaC.swift */,
+				02DC66A12B2B7E0E001BFF64 /* SayfaD.swift */,
 				02DC668D2B2B7874001BFF64 /* Main.storyboard */,
 				02DC66902B2B7875001BFF64 /* Assets.xcassets */,
 				02DC66922B2B7875001BFF64 /* LaunchScreen.storyboard */,
@@ -138,8 +150,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				02DC668C2B2B7874001BFF64 /* ViewController.swift in Sources */,
+				02DC66A22B2B7E0E001BFF64 /* SayfaD.swift in Sources */,
+				02DC669C2B2B7DDF001BFF64 /* SayfaA.swift in Sources */,
+				02DC668C2B2B7874001BFF64 /* AnasayfaViewController.swift in Sources */,
+				02DC669E2B2B7DF6001BFF64 /* SayfaB.swift in Sources */,
 				02DC66882B2B7874001BFF64 /* AppDelegate.swift in Sources */,
+				02DC66A02B2B7E02001BFF64 /* SayfaC.swift in Sources */,
 				02DC668A2B2B7874001BFF64 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
